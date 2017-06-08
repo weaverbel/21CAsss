@@ -131,7 +131,7 @@ Preprints
   </tr>
   <tr>
   <td valign="top">4:20 pm</td>
-    <td valign="top">>Summing up/conclusion  </td>
+    <td valign="top">Summing up/conclusion  </td>
   <td valign="top">Natasha and Ginny  </td>
   </tr>
    
