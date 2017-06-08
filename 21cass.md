@@ -89,9 +89,10 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
   
   <tr>
   <td valign="top">3:30 pm </td>
-  <td valign="top">Working with websites
+  <td valign="top">
+  Working with websites
   
-- What to do/what not to d) with your personal website
+- What to do/what not to do with your personal website
 - How can your institutional website work for you?
 - What about blogs and Twitter?
 
