@@ -114,7 +114,7 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
   <td valign="top">Natasha and Ginny  </td>
   </tr>
   <tr>
-  <td valign="top">3:45  </td>
+  <td valign="top">3:45 pm </td>
   <td valign="top">How to get credit for your peer review activities: Publons, Academic Karma,
 Preprints
 
@@ -123,14 +123,13 @@ Preprints
   <td valign="top">Ginny Barbour  </td>
   </tr>
   <tr>
-  <td valign="top">4:00  </td>
-  <td valign="top">Pitch your research to a journalist:
-come prepared to pitch your work!  </td>
+  <td valign="top">4:00 pm </td>
+  <td valign="top">Pitch your research to a journalist: come prepared to pitch your work!  </td>
   <td valign="top">Sandra Fry  </td>
   </tr>
   <tr>
-  <td valign="top">4:20</td>
-    <td valign="top">>Close  </td>
+  <td valign="top">4:20 pm</td>
+    <td valign="top">>Summing up/conclusion  </td>
   <td valign="top">Natasha and Ginny  </td>
   </tr>
    
