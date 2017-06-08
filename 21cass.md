@@ -89,12 +89,13 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
   
   <tr>
   <td valign="top">3:30 pm </td>
-  <td valign="top">Websites:
+  <td valign="top">Working with websites
   
-- What to do (and what not to do) with your personal website
+- What to do/what not to d) with your personal website
 - How can your institutional website work for you?
-- And what about blogs and twitter?
-- Some example links of academic promotion:
+- What about blogs and Twitter?
+
+Some example links of academic promotion:
  
 - [Andrew Brown](https://experts.griffith.edu.au/academic/andrew.r.brown)
 - [Creative arts research page](https://www.gccar.com.au/griffith-centre-for-creative-arts-research/members/full/andrew-brown/)
