@@ -39,22 +39,22 @@ In this half-day workshop, you will learn:
 </tr>
  
 <tr>
-  <td>1:30 pm</td>
-  <td>Welcome and workshop overview</td>
-  <td>Ginny Barbour</td>
+  <td valign="top">1:30 pm</td>
+  <td valign="top">Welcome and workshop overview</td>
+  <td valign="top">Ginny Barbour</td>
 </tr>
  
 <tr>
-  <td>1:40 pm</td>
-  <td>Persistent identifiers and research explained:
+  <td valign="top">1:40 pm</td>
+  <td valign="top">Persistent identifiers and research explained:
   
 - DOIs
-- https://doi.org/10.4225/08/5858219e78f9a<br \>
-- https://search.datacite.org/<br \>
-- https://stats.datacite.org/<br \>
-- ORCIDs<br \>
-- IGSNs<br \>
-- RAID<br \>
+- https://doi.org/10.4225/08/5858219e78f9a
+- https://search.datacite.org/
+- https://stats.datacite.org/
+- ORCIDs
+- IGSNs
+- RAID
  
 <em>Hands on activities</em>
 
@@ -62,80 +62,76 @@ In this half-day workshop, you will learn:
 - Create or enhance your ORCID profile and link your works
 - Learn how to use your ORCID to create an Impact Story profile</td>
  
-<td>Natasha Simons</td>
+<td valign="top">Natasha Simons</td>
 </tr>
  
 <tr>
  
-  <td>2:20</td>
-  <td>How to licence your work using Creative Commons<br \>
+  <td valign="top">2:20 pm</td>
+  <td valign="top">How to licence your work using Creative Commons<br \>
  
 If you have something you would like to license using CC bring it along!
 This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO4sPoYFlJGFK9DDkbjpM0/edit?usp=sharing">workshop material</a> which you are welcome to take and re-use!
 </td>
  
-  <td>Nerida Quatermass</td>
+  <td valign="top">Nerida Quatermass</td>
 </tr>
 <tr>
-  <td>2:40
-  <td>Applying the think, check, submit framework when publishing your research
+<td valign="top">2:40 pm </td>
+<td valign="top">Applying the think, check, submit framework when publishing your research
+
+- [Scimago journal search](http://www.scimagojr.com/)
+- [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
+- [Scopus journal analyser](https://www.scopus.com/source/eval.uri)
+- [Directory of Open Access Journals (DOAJ)](https://doaj.org/)  </td>
+  <td valign="top">Paula Callan</td>
+  </tr>
+  
+  <tr>
+  <td valign="top">3:30 pm </td>
+  <td valign="top">Websites:
+  
+- What to do (and what not to do) with your personal website
+- How can your institutional website work for you?
+- And what about blogs and twitter?
+- Some example links of academic promotion:
  
-Scimago journal search http://www.scimagojr.com/
+- [Andrew Brown](https://experts.griffith.edu.au/academic/andrew.r.brown)
+- [Creative arts research page](https://www.gccar.com.au/griffith-centre-for-creative-arts-research/members/full/andrew-brown/)
+- [On Research Gate](https://www.researchgate.net/profile/Andrew_Brown11)
+- [On LinkedIn](https://www.linkedin.com/in/andrew-brown-168473/)
+- [Own website](http://explodingart.com/wp/)
  
-Scimago -Shape of Science
-http://www.scimagojr.com/shapeofscience/
+### Other useful links
+
+- [AOASG on Twitter](twitter.com/openaccess_anz)
+- [Jekyll blogs](https://jekyllrb.com/)
+- [Medium](https://medium.com)
+- [Ghost for Journalism](https://blog.ghost.org/)
+- [WordPress](https://wordpress.com/)
+- [The Conversation (Australia)](https://theconversation.com/au) </td>
  
-Scopus journal analyser https://www.scopus.com/source/eval.uri
- 
-Directory of Open Access Journals 9DOAJ)
-https://doaj.org/  </td>
-  <td>Paula Callan</td>
+  <td valign="top">Natasha and Ginny  </td>
   </tr>
   <tr>
-  <td>3:30  </td>
-  <td>Websites:<br \>
-What to do (and what not to do) with your personal website
-How can your institutional website work for you?
-And what about blogs and twitter?
-Some links:
- 
-https://experts.griffith.edu.au/academic/andrew.r.brown
- 
-Creative arts research page - https://www.gccar.com.au/griffith-centre-for-creative-arts-research/members/full/andrew-brown/
- 
-Research Gate - https://www.researchgate.net/profile/Andrew_Brown11
- 
-LinkedIn - https://www.linkedin.com/in/andrew-brown-168473/
- 
-Own website - http://explodingart.com/wp/
- 
-twitter.com/openaccess_anz
-https://jekyllrb.com/
-https://medium.com
-https://blog.ghost.org
-https://wordpress.com
-https://theconversation.com/au  </td>
- 
-  <td>Natasha and Ginny  </td>
-  </tr>
-  <tr>
-  <td>3:45  </td>
-  <td>How to get credit for your peer review activities: Publons, Academic Karma,
+  <td valign="top">3:45  </td>
+  <td valign="top">How to get credit for your peer review activities: Publons, Academic Karma,
 Preprints
-http://asapbio.org/
-https://osf.io/preprints  </td>
-  <td>Ginny Barbour  </td>
+
+- [ASAPbio](http://asapbio.org/)
+- [OSF Preprints](https://osf.io/preprints ) </td>
+  <td valign="top">Ginny Barbour  </td>
   </tr>
   <tr>
-  <td>4:00  </td>
-  <td>Pitch your research to a journalist:
+  <td valign="top">4:00  </td>
+  <td valign="top">Pitch your research to a journalist:
 come prepared to pitch your work!  </td>
-  <td>Sandra Fry  </td>
+  <td valign="top">Sandra Fry  </td>
   </tr>
   <tr>
-  <td>4:20</td>
-    <td>Close  </td>
-  <td>Natasha and Ginny  </td>
+  <td valign="top">4:20</td>
+    <td valign="top">>Close  </td>
+  <td valign="top">Natasha and Ginny  </td>
   </tr>
    
 </table>
