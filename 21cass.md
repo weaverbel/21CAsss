@@ -68,9 +68,9 @@ In this half-day workshop, you will learn:
 <tr>
  
   <td valign="top">2:20 pm</td>
-  <td valign="top">How to license your work using Creative Commons
+  <td valign="top">How to license your work using [Creative Commons](http://creativecommons.org.au/)
  
-If you have something you would like to license using CC, bring it along!
+If you have something you would like to license using [CC](http://creativecommons.org.au/), bring it along!
 This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO4sPoYFlJGFK9DDkbjpM0/edit?usp=sharing">workshop material</a> which you are welcome to take and re-use!
 </td>
  
@@ -78,7 +78,7 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
 </tr>
 <tr>
 <td valign="top">2:40 pm </td>
-<td valign="top">Applying the think, check, submit framework when publishing your research
+<td valign="top">Applying the 'Think, Check, Submit' framework when publishing your research
 
 - [Scimago journal search](http://www.scimagojr.com/)
 - [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
@@ -106,7 +106,7 @@ Some example links of academic promotion:
 ### Other useful links
 
 - [AOASG on Twitter](twitter.com/openaccess_anz)
-- [Jekyll blogs](https://jekyllrb.com/)
+- [Jekyll for publishing](https://jekyllrb.com/)
 - [Medium](https://medium.com)
 - [Ghost for Journalism](https://blog.ghost.org/)
 - [WordPress](https://wordpress.com/)
@@ -116,11 +116,19 @@ Some example links of academic promotion:
   </tr>
   <tr>
   <td valign="top">3:45 pm </td>
-  <td valign="top">How to get credit for your peer review activities: Publons, Academic Karma,
-Preprints
+  <td valign="top">How to get credit for your peer review activities
+  
+Check out
+  
+- [Publons](https://publons.com/home/)
+- [Academic Karma](http://academickarma.org/)
 
+Pre-prints
+
+- [arXiv](https://arxiv.org/)
 - [ASAPbio](http://asapbio.org/)
 - [OSF Preprints](https://osf.io/preprints ) </td>
+
   <td valign="top">Ginny Barbour  </td>
   </tr>
   <tr>
