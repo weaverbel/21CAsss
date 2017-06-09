@@ -3,3 +3,5 @@ This repository showcases the workshop Ginny Barbour and Natasha Simons ran at B
 The material is open and shareable under a CC-BY licence.
 
 Anyone is welcome to fork the repository and adapt it to their needs, as long as the original creators are credited.
+
+Suggestions to update this repository are also welcome.
