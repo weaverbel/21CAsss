@@ -48,15 +48,15 @@ In this half-day workshop, you will learn:
   <td valign="top">1:40 pm</td>
   <td valign="top">Persistent identifiers and research explained:
   
-- DOIs
-- https://doi.org/10.4225/08/5858219e78f9a
-- https://search.datacite.org/
-- https://stats.datacite.org/
+- [Digital Object Identifiers (DOIs)](https://www.doi.org/)
+- [Direct link to publication](https://doi.org/10.4225/08/5858219e78f9a)
+- [DataCite search](https://search.datacite.org/)
+- [DataCite statistics](https://stats.datacite.org/)
 - [ORCIDs](https://orcid.org/)
-- IGSNs
+- [International Geo Sample Numbers (IGSNs)](http://www.geosamples.org/aboutigsn)
 - [RAID](http://www.raid.org.au)
  
-<em>Hands on activities</em>
+<em>Hands-on activities</em>
 
 - Explore DOI search portals
 - Create or enhance your [ORCID](https://orcid.org/) profile and link your works
@@ -68,9 +68,9 @@ In this half-day workshop, you will learn:
 <tr>
  
   <td valign="top">2:20 pm</td>
-  <td valign="top">How to license your work using Creative Commons<br \>
+  <td valign="top">How to license your work using Creative Commons
  
-If you have something you would like to license using CC bring it along!
+If you have something you would like to license using CC, bring it along!
 This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO4sPoYFlJGFK9DDkbjpM0/edit?usp=sharing">workshop material</a> which you are welcome to take and re-use!
 </td>
  
