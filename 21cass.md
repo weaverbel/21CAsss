@@ -52,15 +52,15 @@ In this half-day workshop, you will learn:
 - https://doi.org/10.4225/08/5858219e78f9a
 - https://search.datacite.org/
 - https://stats.datacite.org/
-- ORCIDs
+- [ORCIDs](https://orcid.org/)
 - IGSNs
-- RAID
+- [RAID](http://www.raid.org.au)
  
 <em>Hands on activities</em>
 
 - Explore DOI search portals
-- Create or enhance your ORCID profile and link your works
-- Learn how to use your ORCID to create an Impact Story profile</td>
+- Create or enhance your [ORCID](https://orcid.org/) profile and link your works
+- Learn how to use your [ORCID](https://orcid.org/) to create an [Impact Story](https://impactstory.org/) profile</td>
  
 <td valign="top">Natasha Simons</td>
 </tr>
@@ -68,7 +68,7 @@ In this half-day workshop, you will learn:
 <tr>
  
   <td valign="top">2:20 pm</td>
-  <td valign="top">How to licence your work using Creative Commons<br \>
+  <td valign="top">How to license your work using Creative Commons<br \>
  
 If you have something you would like to license using CC bring it along!
 This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO4sPoYFlJGFK9DDkbjpM0/edit?usp=sharing">workshop material</a> which you are welcome to take and re-use!
