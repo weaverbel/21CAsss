@@ -95,6 +95,9 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
 2. How can your institutional website work for you?
 3. What about blogs and Twitter?
 
+[Presentation here](https://github.com/weaverbel/21CAsss/blob/master/Resbaz%20twitter.pptx)
+
+
 Some example links of academic promotion:
  
 - [Andrew Brown](https://experts.griffith.edu.au/academic/andrew.r.brown)
