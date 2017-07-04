@@ -40,7 +40,7 @@ In this half-day workshop, you will learn:
  
 <tr>
   <td valign="top">1:30 pm</td>
-  <td valign="top">[Welcome and workshop overview]()</td> 
+  <td valign="top">Welcome<a href="https://github.com/weaverbel/21CAsss/blob/master/ResBaz17workshop%20intro.pptx"> and workshop overview)</a> </td> 
   <td valign="top">Ginny Barbour</td>
 </tr>
  
