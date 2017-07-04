@@ -117,6 +117,7 @@ Some example links of academic promotion:
   <tr>
   <td valign="top">3:45 pm </td>
   <td valign="top">How to get credit for your peer review activities
+  -[Presentation on Credi for peer review](https://github.com/weaverbel/21CAsss/blob/master/ResBas_Barbour_Credit_Peer_review.pptx)
   
 Check out
   
